@@ -13,6 +13,10 @@ Upload a brain MRI image and the app will:
 3. Run it through a trained CNN (`model.keras`) to classify it into one of four categories.
 4. Display the predicted class along with a probability breakdown for all classes.
 
+## Visit
+- **Live Site:** https://alzheimer-dimentia-classifier-app-dbbudbgwneodzvmhusvl8o.streamlit.app
+- **GitHub Repository:** https://github.com/mrkhan393/Alzheimer-Stage-Classifier
+
 ## Classes
 
 The model predicts one of the following four stages:
